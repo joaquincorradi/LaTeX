@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.19)  19 APR 2023 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.19)  19 APR 2023 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -402,7 +402,7 @@ LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A3EEA62F526243F36AF5072CE5C96DDA;2637.
+(rerunfilecheck)             Checksum: 0560E54A9F455593D8C0B30A18B58410;2701.
  ) 
 Here is how much of TeX's memory you used:
  9919 strings out of 480852
@@ -411,7 +411,7 @@ Here is how much of TeX's memory you used:
  27097 multiletter control sequences out of 15000+600000
  411899 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,6n,63p,233b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,6n,63p,285b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -422,7 +422,7 @@ t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb>
-Output written on ./main.pdf (5 pages, 108871 bytes).
+Output written on ./main.pdf (5 pages, 110406 bytes).
 PDF statistics:
  181 PDF objects out of 1000 (max. 8388607)
  162 compressed objects within 2 object streams

@@ -10,7 +10,7 @@
 \contentsline {subsection}{Cuantitativas o numéricas}{2}{section*.9}%
 \contentsline {subsubsection}{Continuas}{2}{section*.10}%
 \contentsline {subsubsection}{Discretas}{2}{section*.11}%
-\contentsline {section}{Medidas de localización}{3}{section*.12}%
+\contentsline {section}{Medidas de localización o posición}{3}{section*.12}%
 \contentsline {subsection}{Media}{3}{section*.13}%
 \contentsline {subsection}{Mediana}{3}{section*.14}%
 \contentsline {subsection}{Cuartil}{3}{section*.15}%
