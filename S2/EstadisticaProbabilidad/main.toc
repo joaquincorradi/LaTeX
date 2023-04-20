@@ -1,0 +1,22 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Estadística}{2}{chapter*.1}%
+\contentsline {section}{Conceptos básicos}{2}{chapter*.2}%
+\contentsline {subsection}{Población}{2}{section*.3}%
+\contentsline {subsection}{Población}{2}{section*.4}%
+\contentsline {section}{Variables estadísticas}{2}{section*.5}%
+\contentsline {subsection}{Cualitativas o categóricas}{2}{section*.6}%
+\contentsline {subsubsection}{Nominal}{2}{section*.7}%
+\contentsline {subsubsection}{Ordinal}{2}{section*.8}%
+\contentsline {subsection}{Cuantitativas o numéricas}{2}{section*.9}%
+\contentsline {subsubsection}{Continuas}{2}{section*.10}%
+\contentsline {subsubsection}{Discretas}{2}{section*.11}%
+\contentsline {section}{Medidas de localización}{3}{section*.12}%
+\contentsline {subsection}{Media}{3}{section*.13}%
+\contentsline {subsection}{Mediana}{3}{section*.14}%
+\contentsline {subsection}{Cuartil}{3}{section*.15}%
+\contentsline {subsubsection}{Primer cuartil}{3}{section*.16}%
+\contentsline {subsubsection}{Segundo cuartil}{3}{section*.17}%
+\contentsline {subsection}{Percentil}{3}{section*.18}%
+\contentsline {subsubsection}{Segundo cuartil}{3}{section*.19}%
+\contentsline {subsubsection}{Segundo cuartil}{3}{section*.20}%
+\contentsline {section}{Medidas de variabilidad}{3}{section*.21}%
