@@ -30,3 +30,4 @@
 \contentsline {subsection}{Complemento}{6}{section*.29}%
 \contentsline {subsection}{Unión}{6}{section*.30}%
 \contentsline {subsection}{Intersección}{6}{section*.31}%
+\contentsline {subsection}{Evento nulo}{7}{section*.32}%
