@@ -3,24 +3,30 @@
 \contentsline {section}{Conceptos básicos}{2}{chapter*.2}%
 \contentsline {subsection}{Población}{2}{section*.3}%
 \contentsline {subsection}{Población}{2}{section*.4}%
-\contentsline {section}{Variables estadísticas}{2}{section*.5}%
-\contentsline {subsection}{Cualitativas o categóricas}{2}{section*.6}%
-\contentsline {subsubsection}{Nominal}{2}{section*.7}%
-\contentsline {subsubsection}{Ordinal}{2}{section*.8}%
-\contentsline {subsection}{Cuantitativas o numéricas}{2}{section*.9}%
-\contentsline {subsubsection}{Continuas}{2}{section*.10}%
-\contentsline {subsubsection}{Discretas}{3}{section*.11}%
-\contentsline {section}{Medidas de localización o posición}{3}{section*.12}%
-\contentsline {subsection}{Media}{3}{section*.13}%
-\contentsline {subsection}{Mediana}{3}{section*.14}%
-\contentsline {subsection}{Cuartil}{3}{section*.15}%
-\contentsline {subsubsection}{Primer cuartil}{3}{section*.16}%
-\contentsline {subsubsection}{Tercer cuartil}{4}{section*.17}%
-\contentsline {subsection}{Percentil}{4}{section*.18}%
-\contentsline {subsubsection}{Segundo cuartil}{4}{section*.19}%
+\contentsline {subsection}{Variable}{2}{section*.5}%
+\contentsline {section}{Variables estadísticas}{2}{section*.6}%
+\contentsline {subsection}{Cualitativas o categóricas}{2}{section*.7}%
+\contentsline {subsubsection}{Nominal}{2}{section*.8}%
+\contentsline {subsubsection}{Ordinal}{2}{section*.9}%
+\contentsline {subsection}{Cuantitativas o numéricas}{2}{section*.10}%
+\contentsline {subsubsection}{Continuas}{3}{section*.11}%
+\contentsline {subsubsection}{Discretas}{3}{section*.12}%
+\contentsline {section}{Medidas de localización o posición}{3}{section*.13}%
+\contentsline {subsection}{Media}{3}{section*.14}%
+\contentsline {subsection}{Mediana}{3}{section*.15}%
+\contentsline {subsection}{Cuartil}{3}{section*.16}%
+\contentsline {subsubsection}{Primer cuartil}{3}{section*.17}%
+\contentsline {subsubsection}{Tercer cuartil}{4}{section*.18}%
+\contentsline {subsection}{Percentil}{4}{section*.19}%
 \contentsline {subsubsection}{Segundo cuartil}{4}{section*.20}%
-\contentsline {section}{Medidas de variabilidad}{4}{section*.21}%
-\contentsline {subsection}{Varianza de la muestra}{5}{section*.22}%
-\contentsline {subsection}{Desviación de la muestra}{5}{section*.23}%
-\contentsline {chapter}{Probabilidad}{5}{section*.24}%
-\contentsline {section}{Espacio muestral}{6}{chapter*.25}%
+\contentsline {subsubsection}{Segundo cuartil}{4}{section*.21}%
+\contentsline {section}{Medidas de variabilidad}{4}{section*.22}%
+\contentsline {subsection}{Varianza de la muestra}{5}{section*.23}%
+\contentsline {subsection}{Desviación de la muestra}{5}{section*.24}%
+\contentsline {chapter}{Probabilidad}{5}{section*.25}%
+\contentsline {section}{Espacio muestral}{6}{chapter*.26}%
+\contentsline {section}{Evento}{6}{section*.27}%
+\contentsline {section}{Teoría de conjuntos}{6}{section*.28}%
+\contentsline {subsection}{Complemento}{6}{section*.29}%
+\contentsline {subsection}{Unión}{6}{section*.30}%
+\contentsline {subsection}{Intersección}{6}{section*.31}%

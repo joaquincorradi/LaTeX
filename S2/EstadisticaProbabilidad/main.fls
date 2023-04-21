@@ -600,6 +600,7 @@ OUTPUT main.toc
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
@@ -613,3 +614,4 @@ INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
