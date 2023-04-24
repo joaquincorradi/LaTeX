@@ -621,4 +621,5 @@ INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb

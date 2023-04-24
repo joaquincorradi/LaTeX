@@ -34,3 +34,5 @@
 \contentsline {subsection}{Intersección}{7}{section*.33}%
 \contentsline {subsection}{Evento nulo}{8}{section*.34}%
 \contentsline {section}{Probabilidad}{8}{section*.35}%
+\contentsline {section}{Axiomas de probabilidad}{8}{section*.36}%
+\contentsline {section}{Propiedades que se deducen de los axiomas}{8}{Item.3}%

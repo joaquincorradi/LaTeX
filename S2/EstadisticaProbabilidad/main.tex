@@ -214,9 +214,10 @@
       \end{equation*}
     \addcontentsline{toc}{section}{Evento}
     \section*{Evento}
-    Un evento es el conjunto de uno o más resultados contenidos en el espacio 
-    muestral $\Omega$. Un evento es simple si consiste en exactamente un resultado y 
-    compuesto si consiste en más de un resultado.
+    Un evento es el conjunto de uno o más resultados o puntos muetrales 
+    contenidos en el espacio muestral $\Omega$. Un evento es simple si 
+    consiste en exactamente un resultado y compuesto si consiste en más 
+    de un resultado.
 
     \addcontentsline{toc}{section}{Teoría de conjuntos}
     \section*{Teoría de conjuntos}
@@ -243,8 +244,8 @@
 
       \addcontentsline{toc}{subsection}{Evento nulo}
       \subsection*{Evento nulo}
-      Se denomina $\varnothing$ a un evento sin resultados. Cuando $A\cap B=\varnothing$, se dice que 
-      $A$ y $B$ son eventos mutuamente excluyentes o disjuntos.
+      Se denomina $\varnothing$ a un evento sin resultados. Cuando $A\cap B=\varnothing$, 
+      se dice que $A$ y $B$ son eventos mutuamente excluyentes o disjuntos.
 
     \addcontentsline{toc}{section}{Probabilidad}
     \section*{Probabilidad}
@@ -252,5 +253,27 @@
     \begin{equation*}
       P(A)=\frac{n_i}{N}
     \end{equation*}
+    Siendo $n_i$ el numero de puntos muestrales favorables y $N$ el numero 
+    total de puntos muetrales en $\Omega$.
+
+    \addcontentsline{toc}{section}{Axiomas de probabilidad}
+    \section*{Axiomas de probabilidad}
+      
+      \begin{enumerate}
+        \item $P(A)\geqslant0$
+        \item $P(\Omega)=1$
+        \item Si $A$ y $B$ es un conjunto de eventos mutuamente excluyentes entonces
+          \begin{equation*}
+            P(A\cup B)=P(A)+P(B)
+          \end{equation*}
+      \end{enumerate}
+
+    \addcontentsline{toc}{section}{Propiedades que se deducen de los axiomas}
+    \section*{Propiedades que se deducen de los axiomas}
+      
+      \begin{enumerate}
+        \item $P(\varnothing)=0$
+        \item $P(A)\leqslant1$
+      \end{enumerate}
 
 \end{document}
