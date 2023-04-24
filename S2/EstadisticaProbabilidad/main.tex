@@ -166,41 +166,56 @@
               P_95=\frac{95n}{100}
             \end{equation*}
 
-    \addcontentsline{toc}{section}{Medidas de variabilidad}
-    \section*{Medidas de variabilidad}
+      \addcontentsline{toc}{subsection}{Moda}
+      \subsection*{Moda}
+        La moda es el valor más repetido del conjunto de datos, es decir, el valor 
+        cuya frecuencia relativa es mayor. En un conjunto puede haber más de una 
+        moda (bimodal).
+
+    \addcontentsline{toc}{section}{Medidas de variabilidad o disperción}
+    \section*{Medidas de variabilidad o disperción}
       
-      \addcontentsline{toc}{subsection}{Varianza de la muestra}
-      \subsection*{Varianza de la muestra}
+      \addcontentsline{toc}{subsection}{Varianza muestral}
+      \subsection*{Varianza muestral}
         
         \begin{equation*}
           s^2=\sum_{i=1}^n\frac{(x_i-\overline{x})^2}{n-1}
         \end{equation*}
 
-      \addcontentsline{toc}{subsection}{Desviación de la muestra}
-      \subsection*{Desviación de la muestra}
+      \addcontentsline{toc}{subsection}{Desviación estándar}
+      \subsection*{Desviación estándar}
+        Es una medida del grado de disperción de de los datos con respecto al
+        valor promedio.
 
         \begin{equation*}
           s=\sqrt{s^2}
         \end{equation*}
+
+    \addcontentsline{toc}{section}{Frecuencia}
+    \section*{Frecuencia}
+      La frecuencia es una medida que sirve para comparar la aparición de un 
+      elemento $x_i$ en un conjunto de elementos ($x_1, x_2, \dotsm, x_n$).\\
+      \indent\textit{*acá falta colocar todos los tipos de frecuencias.*}
+
   \addcontentsline{toc}{chapter}{Probabilidad}
   \chapter*{Probabilidad}
     
-    \addcontentsline{toc}{section}{Espacio muestral}
-    \section*{Espacio muestral}
+    \addcontentsline{toc}{section}{Espacio muestral $\Omega$}
+    \section*{Espacio muestral ($\Omega$)}
       Al conjunto de todos los resultados posibles de un experimento estadístico 
-      se le llama espacio muestral y se representa con el símbolo $S$.\\
+      se le llama espacio muestral $\Omega$ y se representa con el símbolo $S$.\\
       \indent Ej. 1: lanzar un dado.
       \begin{equation*}
-        S_1=\{1, 2, 3, 4, 5, 6\}
+        \Omega_1=\{1, 2, 3, 4, 5, 6\}
       \end{equation*}
       \indent Ej. 2: par o impar.
       \begin{equation*}
-        S_2=\{par, impar\}
+        \Omega_2=\{par, impar\}
       \end{equation*}
     \addcontentsline{toc}{section}{Evento}
     \section*{Evento}
     Un evento es el conjunto de uno o más resultados contenidos en el espacio 
-    muestral $S$. Un evento es simple si consiste en exactamente un resultado y 
+    muestral $\Omega$. Un evento es simple si consiste en exactamente un resultado y 
     compuesto si consiste en más de un resultado.
 
     \addcontentsline{toc}{section}{Teoría de conjuntos}
@@ -209,7 +224,7 @@
       \addcontentsline{toc}{subsection}{Complemento}
       \subsection*{Complemento}
       El complemento de un evento $A$, denotado por $A'$, es el conjunto de todos los 
-      resultados en $S$ que no están contenidos en $A$. 
+      resultados en $\Omega$ que no están contenidos en $A$. 
 
       \addcontentsline{toc}{subsection}{Unión}
       \subsection*{Unión}
@@ -218,7 +233,6 @@
       o en ambos eventos, es decir, todos  los resultados en por lo menos uno de 
       los eventos. El evento $A\cup B$ ocurre si por lo menos ocurre $A$, $B$ 
       o ambos.
-
 
       \addcontentsline{toc}{subsection}{Intersección}
       \subsection*{Intersección}
@@ -231,4 +245,12 @@
       \subsection*{Evento nulo}
       Se denomina $\varnothing$ a un evento sin resultados. Cuando $A\cap B=\varnothing$, se dice que 
       $A$ y $B$ son eventos mutuamente excluyentes o disjuntos.
+
+    \addcontentsline{toc}{section}{Probabilidad}
+    \section*{Probabilidad}
+    
+    \begin{equation*}
+      P(A)=\frac{n_i}{N}
+    \end{equation*}
+
 \end{document}

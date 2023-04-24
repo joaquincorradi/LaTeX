@@ -601,6 +601,11 @@ INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
