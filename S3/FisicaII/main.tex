@@ -4,7 +4,7 @@
 \usepackage{amsmath, amsthm, amssymb, graphicx, hyperref}
 
 \title{Listado de fórmulas y conceptos de física II}
-\date{}
+\date{Tercer semestre}
 \author{Joaquín I. Corradi}
 
 \begin{document}
@@ -28,13 +28,13 @@
     \addcontentsline{toc}{subsection}{Constante de Coulomb}
     \subsection*{Constante de Coulomb}
       \begin{equation*}
-        k_e=8,9876\times10^9[N]=\frac{1}{4\pi\epsilon_0}
+        k_e=8,9876\times10^9[N]=\frac{1}{4\pi\varepsilon_0}
       \end{equation*}
 
     \addcontentsline{toc}{subsection}{Permitividad del vacío}
     \subsection*{Permitividad del vacío}
       \begin{equation*}
-        \epsilon_0=8,8542\times10^{-12}\left[\frac{C^2}{NM^2}\right]
+        \varepsilon_0=8,8542\times10^{-12}\left[\frac{C^2}{NM^2}\right]
       \end{equation*}
 
     \addcontentsline{toc}{subsection}{Definición de campo eléctrico}
@@ -43,7 +43,7 @@
       fuerza eléctrica sobre otra carga de prueba $q_0$ cercana. Se describe mediante vectores que indican la 
       magnitud y dirección de la fuerza eléctrica experimentada por una carga de prueba.
       \begin{equation*}
-        \overrightarrow{E}=\frac{\overrightarrow{F}_e}{q_0}\left[\frac{N}{C}\right]
+        \vec{E}=\frac{\vec{F}_e}{q_0}\left[\frac{N}{C}\right]
       \end{equation*}
 
     \addcontentsline{toc}{subsection}{Campo eléctrico de una carga puntual $q$}
@@ -70,18 +70,18 @@
         a=\frac{qE}{m}
       \end{equation*}
 
-    \addcontentsline{toc}{subsection}{Fuerza sobre una partícula con carga colocada en un campo eléctrico}
-    \subsection*{Fuerza ejercida sobre una partícula con carga $q$ colocada en un campo eléctrico}
-      \begin{equation*}
-        \overrightarrow{F}_e=q_0\overrightarrow{E}[N]
-      \end{equation*}
-
-    \addcontentsline{toc}{subsection}{Fuerza sobre una carga de pruebas según la ley de Coulomb}
-    \subsection*{Fuerza ejercida por $q$ sobre una carga de pruebas según la ley de Coulomb}
-      \begin{equation*}
-        \overrightarrow{F}_e=k_e\frac{qq_0}{r^2}\hat{r}[N]
-      \end{equation*}
-      Dónde $\hat{r}$ es un vector unitario con dirección de $q$ hacia $q_0$.
+    % \addcontentsline{toc}{subsection}{Fuerza sobre una partícula con carga colocada en un campo eléctrico}
+    % \subsection*{Fuerza ejercida sobre una partícula con carga $q$ colocada en un campo eléctrico}
+    %   \begin{equation*}
+    %     \overrightarrow{F}_e=q_0\overrightarrow{E}[N]
+    %   \end{equation*}
+    %
+    % \addcontentsline{toc}{subsection}{Fuerza sobre una carga de pruebas según la ley de Coulomb}
+    % \subsection*{Fuerza ejercida por $q$ sobre una carga de pruebas según la ley de Coulomb}
+    %   \begin{equation*}
+    %     \overrightarrow{F}_e=k_e\frac{qq_0}{r^2}\hat{r}[N]
+    %   \end{equation*}
+    %   Dónde $\hat{r}$ es un vector unitario con dirección de $q$ hacia $q_0$.
 
 
   \addcontentsline{toc}{section}{Ley de Gauss}
@@ -92,23 +92,23 @@
       El flujo eléctrico es una medida de la cantidad de líneas de campo eléctrico que atraviesan 
       una superficie dada. Se puede visualizar como la cantidad de líneas que salen o entran en una superficie
       \begin{equation*}
-        \Phi_E=\oint_s\overrightarrow{E}\cdot d\overrightarrow{A}=\left[\frac{NM^2}{C}\right]
+        \Phi_E=\oint_s\vec{E}\cdot d\vec{A}=\left[\frac{NM^2}{C}\right]
       \end{equation*}
 
     \addcontentsline{toc}{subsection}{Flujo eléctrico para superficie sencilla}
     \subsection*{Flujo eléctrico para superficie sencilla}
       \begin{equation*}
-        \Phi_E=\overrightarrow{E}\cdot\overrightarrow{A}\left[\frac{NM^2}{C}\right]=EA\cos{\theta}\left[\frac{NM^2}{C}\right]
+        \Phi_E=\vec{E}\cdot\vec{A}\left[\frac{NM^2}{C}\right]=EA\cos{\theta}\left[\frac{NM^2}{C}\right]
       \end{equation*}
-    Siendo $\overrightarrow{S}$ el vector perpendicular a la superficie y $\theta$ el ángulo conformado por los vectores
-    $\overrightarrow{E}$ y $\overrightarrow{A}$.
+    Siendo $\vec{S}$ el vector perpendicular a la superficie y $\theta$ el ángulo conformado por los vectores
+    $\vec{E}$ y $\vec{A}$.
 
     \addcontentsline{toc}{subsection}{Ley de Gauss}
     \subsection*{Ley de Gauss}
       \begin{align*}
-        \Phi_E &=\frac{\sum q_{int}}{\epsilon_0}\left[\frac{NM^2}{C}\right]\\
-        \oint_s\overrightarrow{E}\cdot d\overrightarrow{A}&=\frac{\sum q_{int}}{\epsilon_0}\left[\frac{NM^2}{C}\right]\\
-        \Phi_E &=\oint_s\overrightarrow{E}\cdot d\overrightarrow{A}\left[\frac{NM^2}{C}\right]
+        \Phi_E &=\frac{\sum q_{int}}{\varepsilon_0}\left[\frac{NM^2}{C}\right]\\
+        \oint_s\vec{E}\cdot d\vec{A}&=\frac{\sum q_{int}}{\varepsilon_0}\left[\frac{NM^2}{C}\right]\\
+        \Phi_E &=\oint_s\vec{E}\cdot d\vec{A}\left[\frac{NM^2}{C}\right]
       \end{align*}
 
   \addcontentsline{toc}{section}{Potencial eléctrico}
@@ -119,6 +119,192 @@
       Trabajo que debe realizar un campo eléctrico para mover una carga positiva desde dicho punto hasta el punto de 
       referencia, dividido por unidad de carga de prueba.
       \begin{equation*}
-        dw=\overrightarrow{F}\cdot\overrightarrow{ds}=q_0\overrightarrow{E}\cdot\overrightarrow{ds}[J]
+        dw=\vec{F}\cdot\vec{ds}=q_0\vec{E}\cdot\vec{ds}[J]
       \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Diferencia de potencial entre $A$ y $B$}
+    \subsection*{Diferencia de potencial entre $A$ y $B$}
+      
+      \begin{align*}
+        V_B-V_A=\frac{U_B-U_A}{q_0}=-\int_A^B\vec{E}\cdot\vec{ds}\\
+        \Delta V=\frac{\Delta U}{q_0}\left[\frac{J}{C}=V\right]=-\int\vec{E}\cdot\vec{ds}\left[\frac{N}{C}m=V\right]
+      \end{align*}
+
+    \addcontentsline{toc}{subsection}{Diferencia de potencial en un campo $E$ uniforme}
+    \subsection*{Diferencia de potencial en un campo $E$ uniforme}
+      
+      \begin{equation*}
+        \Delta V=-\vec{E}\cdot\vec{d}=-|E||d|\cos{\theta}
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Potencial eléctrico y energía potencial debido a una carga puntual}
+    \subsection*{Potencial eléctrico y energía potencial debido a una carga puntual}
+
+      \begin{align*}
+        V=k\frac{q}{r}\\
+        U=q_2v_1=k\frac{q_1q_2}{r_{12}}
+      \end{align*}
+
+    \addcontentsline{toc}{subsection}{Relación entre $E$ y $V$}
+    \subsection*{Relación entre $E$ y $V$}
+
+      \begin{align*}
+        E_x=-\frac{\partial V}{\partial x}\\
+        E_y=-\frac{\partial V}{\partial y}\\
+        E_z=-\frac{\partial V}{\partial z}\\
+      \end{align*}
+
+    \addcontentsline{toc}{subsection}{Potencial debido a una distribución de carga}
+    \subsection*{Potencial debido a una distribución de carga}
+
+      \begin{equation*}
+        V=k\int\frac{dq}{r}
+      \end{equation*}
+
+  \addcontentsline{toc}{section}{Capacitancia y capacitores}
+  \section*{Capacitancia y capacitores}
+
+    \addcontentsline{toc}{subsection}{Capacitancia}
+    \subsection*{Capacitancia}
+
+      \begin{equation*}
+        C=\frac{Q}{V}\left[\frac{C}{V}=Faradio\right]
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Capacitancia de una esfera cargada aislada de radio $R$}
+    \subsection*{Capacitancia de una esfera cargada aislada de radio $R$}
+
+      \begin{equation*}
+        C=4\pi\varepsilon_0R
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Capacitor de placas paralelas separadas por $d$ y área de placas $A$}
+    \subsection*{Capacitor de placas paralelas separadas por $d$ y área de placas $A$}
+
+      \begin{equation*}
+        C=\frac{\varepsilon_0A}{d}
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Capacitor cilíndrico}
+    \subsection*{Capacitor cilíndrico}
+
+      \begin{equation*}
+        C=\frac{l}{2kln(\frac{b}{a})}
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Capacitor esférico}
+    \subsection*{Capacitor esférico}
+
+      \begin{equation*}
+        C=\frac{ab}{k(b-a)}
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Combinación de capacitores}
+    \subsection*{Combinación de capacitores}
+      
+      En paralelo:\\
+      \begin{equation*}
+        C_{eq}=C_1+C_2
+      \end{equation*}
+      \indent En serie:\\
+      \begin{equation*}
+        \frac{1}{C_{eq}}=\frac{1}{C_1}+\frac{1}{C_2}
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Energía almacenada en un capacitor}
+    \subsection*{Energía almacenada en un capacitor}
+
+      \begin{equation*}
+        U=\frac{1}{2}\frac{Q^2}{C}=\frac{1}{2}QV=\frac{1}{2}CV^2[J]
+      \end{equation*}
+
+  \addcontentsline{toc}{section}{Corriente y resistencia}
+  \section*{Corriente y resistencia}
+
+    \addcontentsline{toc}{subsection}{Corriente eléctrica}
+    \subsection*{Corriente eléctrica}
+
+      \begin{equation*}
+        I=\frac{dq}{dt}\left[\frac{C}{seg}=A\right]
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Resistencia}
+    \subsection*{Resistencia}
+
+      \begin{equation*}
+        R=\frac{V}{I}\left[\frac{V}{A}=\Omega\right]
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Resistencia de un conductor uniforme}
+    \subsection*{Resistencia de un conductor uniforme}
+
+      \begin{equation*}
+        R=\rho\frac{l}{A}[\Omega]
+      \end{equation*}
+      \indent Siendo $\rho$ el coeficiente de resistividad, $l$ la longitud que recorrería
+      la corriente eléctrica aplicada una diferencia de potencial y $A$ la sección
+      perpendicular a la dirección de la corriente.
+
+    \addcontentsline{toc}{subsection}{Variación de la resistividad con la temperatura}
+    \subsection*{Variación de la resistividad con la temperatura}
+      
+      \begin{equation*}
+        \rho=\rho_0[1+\alpha(\Delta T)]
+      \end{equation*}
+      \indent Siendo $\rho_0$ la resistividad a una temperatura de $20^{\circ}$ y $\alpha$
+      el coeficiente de temperatura.
+      \begin{equation*}
+        R=R_0[1+\alpha(\Delta T)]
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Conductividad}
+    \subsection*{Conductividad}
+
+      \begin{equation*}
+        \sigma=\frac{1}{\rho}[\Omega^{-1}m^{-1}]
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Densidad de corriente}
+    \subsection*{Densidad de corriente}
+
+      \begin{equation*}
+        J=\frac{I}{A}\left[\frac{A}{m^2}\right]
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Ley de Ohm}
+    \subsection*{Ley de Ohm}
+
+      \begin{equation*}
+        J=\sigma E
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Potencia}
+    \subsection*{Potencia}
+
+      \begin{equation*}
+        P[W]=IV=I^2R=\frac{V^2}{R}
+      \end{equation*}
+
+  \addcontentsline{toc}{section}{Circuitos de corriente directa}
+  \section*{Circuitos de corriente directa}
+
+    \addcontentsline{toc}{subsection}{Voltaje entre bornes de una batería}
+    \subsection*{Voltaje entre bornes de una batería}
+
+      \begin{equation*}
+        V=\mathcal{E}-Ir
+      \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Combinación de resistencias}
+    \subsection*{Combinación de resistencias}
+      
+      En paralelo:\\
+      \begin{equation*}
+        \frac{1}{R_{eq}}=\frac{1}{R_1}+\frac{1}{R_2}
+      \end{equation*}
+      \indent En serie:
+      \begin{equation*}
+        R_{eq}=R_1+R_2
+      \end{equation*}
+
 \end{document}

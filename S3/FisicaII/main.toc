@@ -1,18 +1,41 @@
 \babel@toc {spanish}{}
-\contentsline {section}{Campo eléctrico}{2}{chapter*.1}%
-\contentsline {subsection}{Ley de Coulomb}{2}{section*.2}%
-\contentsline {subsection}{Constante de Coulomb}{2}{section*.3}%
-\contentsline {subsection}{Permitividad del vacío}{2}{section*.4}%
-\contentsline {subsection}{Definición de campo eléctrico}{2}{section*.5}%
-\contentsline {subsection}{Campo eléctrico de una carga puntual $q$}{2}{section*.6}%
-\contentsline {subsection}{Campo eléctrico de un grupo de cargas}{2}{section*.7}%
-\contentsline {subsection}{Campo eléctrico de una distribución de carga continua}{2}{section*.8}%
-\contentsline {subsection}{Aceleración de una carga en un campo eléctrico}{3}{section*.9}%
-\contentsline {subsection}{Fuerza sobre una partícula con carga colocada en un campo eléctrico}{3}{section*.10}%
-\contentsline {subsection}{Fuerza sobre una carga de pruebas según la ley de Coulomb}{3}{section*.11}%
-\contentsline {section}{Ley de Gauss}{3}{section*.12}%
-\contentsline {subsection}{Definición de flujo eléctrico}{3}{section*.13}%
-\contentsline {subsection}{Flujo eléctrico para superficie sencilla}{3}{section*.14}%
-\contentsline {subsection}{Ley de Gauss}{3}{section*.15}%
-\contentsline {section}{Potencial eléctrico}{4}{section*.16}%
-\contentsline {subsection}{Definición de potencial eléctrico}{4}{section*.17}%
+\contentsline {section}{Campo eléctrico}{3}{chapter*.1}%
+\contentsline {subsection}{Ley de Coulomb}{3}{section*.2}%
+\contentsline {subsection}{Constante de Coulomb}{3}{section*.3}%
+\contentsline {subsection}{Permitividad del vacío}{3}{section*.4}%
+\contentsline {subsection}{Definición de campo eléctrico}{3}{section*.5}%
+\contentsline {subsection}{Campo eléctrico de una carga puntual $q$}{3}{section*.6}%
+\contentsline {subsection}{Campo eléctrico de un grupo de cargas}{3}{section*.7}%
+\contentsline {subsection}{Campo eléctrico de una distribución de carga continua}{3}{section*.8}%
+\contentsline {subsection}{Aceleración de una carga en un campo eléctrico}{4}{section*.9}%
+\contentsline {section}{Ley de Gauss}{4}{section*.10}%
+\contentsline {subsection}{Definición de flujo eléctrico}{4}{section*.11}%
+\contentsline {subsection}{Flujo eléctrico para superficie sencilla}{4}{section*.12}%
+\contentsline {subsection}{Ley de Gauss}{4}{section*.13}%
+\contentsline {section}{Potencial eléctrico}{4}{section*.14}%
+\contentsline {subsection}{Definición de potencial eléctrico}{5}{section*.15}%
+\contentsline {subsection}{Diferencia de potencial entre $A$ y $B$}{5}{section*.16}%
+\contentsline {subsection}{Diferencia de potencial en un campo $E$ uniforme}{5}{section*.17}%
+\contentsline {subsection}{Potencial eléctrico y energía potencial debido a una carga puntual}{5}{section*.18}%
+\contentsline {subsection}{Relación entre $E$ y $V$}{5}{section*.19}%
+\contentsline {subsection}{Potencial debido a una distribución de carga}{5}{section*.20}%
+\contentsline {section}{Capacitancia y capacitores}{6}{section*.21}%
+\contentsline {subsection}{Capacitancia}{6}{section*.22}%
+\contentsline {subsection}{Capacitancia de una esfera cargada aislada de radio $R$}{6}{section*.23}%
+\contentsline {subsection}{Capacitor de placas paralelas separadas por $d$ y área de placas $A$}{6}{section*.24}%
+\contentsline {subsection}{Capacitor cilíndrico}{6}{section*.25}%
+\contentsline {subsection}{Capacitor esférico}{6}{section*.26}%
+\contentsline {subsection}{Combinación de capacitores}{6}{section*.27}%
+\contentsline {subsection}{Energía almacenada en un capacitor}{6}{section*.28}%
+\contentsline {section}{Corriente y resistencia}{7}{section*.29}%
+\contentsline {subsection}{Corriente eléctrica}{7}{section*.30}%
+\contentsline {subsection}{Resistencia}{7}{section*.31}%
+\contentsline {subsection}{Resistencia de un conductor uniforme}{7}{section*.32}%
+\contentsline {subsection}{Variación de la resistividad con la temperatura}{7}{section*.33}%
+\contentsline {subsection}{Conductividad}{7}{section*.34}%
+\contentsline {subsection}{Densidad de corriente}{7}{section*.35}%
+\contentsline {subsection}{Ley de Ohm}{8}{section*.36}%
+\contentsline {subsection}{Potencia}{8}{section*.37}%
+\contentsline {section}{Circuitos de corriente directa}{8}{section*.38}%
+\contentsline {subsection}{Voltaje entre bornes de una batería}{8}{section*.39}%
+\contentsline {subsection}{Combinación de resistencias}{8}{section*.40}%
