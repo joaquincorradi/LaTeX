@@ -166,9 +166,13 @@
 
     \addcontentsline{toc}{subsection}{Capacitancia}
     \subsection*{Capacitancia}
+      Un capacitor consiste en dos conductores que portan cargas de igual 
+      magnitud y signo opuesto. La capacitancia sólo depende de la geométria 
+      de los conductores y no de una fuente externa de carga o diferencia de 
+      potencial.
 
       \begin{equation*}
-        C=\frac{Q}{V}\left[\frac{C}{V}=Faradio\right]
+        C=\frac{Q}{V}\left[\frac{C}{V}=F\right]
       \end{equation*}
 
     \addcontentsline{toc}{subsection}{Capacitancia de una esfera cargada aislada de radio $R$}
@@ -214,8 +218,11 @@
     \addcontentsline{toc}{subsection}{Energía almacenada en un capacitor}
     \subsection*{Energía almacenada en un capacitor}
 
+      En un capacitor se almacena energía porque el proceso de carga es equivalente 
+      a la transferencia de cargas de un conductor con un potencial eléctrico 
+      más bajo, a otro conductor con un potencial más alto.
       \begin{equation*}
-        U=\frac{1}{2}\frac{Q^2}{C}=\frac{1}{2}QV=\frac{1}{2}CV^2[J]
+        U=\frac{Q^2}{2C}=\frac{1}{2}QV=\frac{1}{2}CV^2[J]
       \end{equation*}
 
   \addcontentsline{toc}{section}{Corriente y resistencia}
@@ -225,8 +232,10 @@
     \subsection*{Corriente eléctrica}
 
       \begin{equation*}
-        I=\frac{dq}{dt}\left[\frac{C}{seg}=A\right]
+        I=\frac{dQ}{dt}\left[\frac{C}{seg}=A\right]
       \end{equation*}
+      Donde $dQ$ es la carga que pasa a través de una sección transversal del 
+      conductor en un intervalo de tiempo $dt$.
 
     \addcontentsline{toc}{subsection}{Resistencia}
     \subsection*{Resistencia}
@@ -253,9 +262,6 @@
       \end{equation*}
       \indent Siendo $\rho_0$ la resistividad a una temperatura de $20^{\circ}$ y $\alpha$
       el coeficiente de temperatura.
-      \begin{equation*}
-        R=R_0[1+\alpha(\Delta T)]
-      \end{equation*}
 
     \addcontentsline{toc}{subsection}{Conductividad}
     \subsection*{Conductividad}
@@ -281,9 +287,10 @@
     \addcontentsline{toc}{subsection}{Potencia}
     \subsection*{Potencia}
 
-      \begin{equation*}
-        P[W]=IV=I^2R=\frac{V^2}{R}
-      \end{equation*}
+      \begin{align*}
+        \wp=IV=I^2R=\frac{V^2}{R}\\
+        \wp[W]
+      \end{align*}
 
   \addcontentsline{toc}{section}{Circuitos de corriente directa}
   \section*{Circuitos de corriente directa}
@@ -306,5 +313,26 @@
       \begin{equation*}
         R_{eq}=R_1+R_2
       \end{equation*}
+
+    \addcontentsline{toc}{subsection}{Reglas de Kirchhoff}
+    \subsection*{Reglas de Kirchhoff}
+
+      Regla de la unión. En cualquier unión, la suma de las corrientes debe ser 
+      igual a cero:
+      \begin{equation*}
+        \sum_{nodo}I=0
+      \end{equation*}
+      \indent Regla de la espira. La suma de las diferencias de potencial a través 
+      de todos los elementos alrededor de cualquier espira de circuito debe ser cero:
+      \begin{equation*}
+        \sum_{malla \ cerrada}\Delta V=0
+      \end{equation*}
+      Cuando un resistor se recorre en la dirección de la corriente, la diferencia 
+      de potencial $\Delta V$ a través del resistor es $-IR$ Cuando un resistor se
+      recorre en la dirección opuesta a la corriente, $\Delta V=+IR$. Cuando una
+      fuente de fem se recorre en la dirección de la fem (terminal negativa a
+      terminal positiva), la diferencia de potencial es $+\mathcal{E}$. Cuando una fuente
+      de fem se recorre opuesta a la fem (positivo a negativo), la diferencia de
+      potencial es $-\mathcal{E}$.
 
 \end{document}
