@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1683502324 "main.tex" "main.pdf" "main" 1683502324 0
+["pdflatex"] 1683635232 "main.tex" "main.pdf" "main" 1683635233 0
   "/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/map/fontname/texfonts.map" 1678549815 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1678549815 4609045 74543da1ab9350ba886fce0af49a2cfd ""
   "/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1678549815 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -40,11 +40,12 @@
   "/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1678549815 678 4792914a8f45be57bb98413425e4c7af ""
   "/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/web2c/texmf.cnf" 1678549815 40748 4081c8bc921e56c865f975bd762e388c ""
   "/opt/homebrew/Cellar/texlive/20230313/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7884046 7da7ec43723541b1080dc65bd2841593 ""
+  "cuadro.jpg" 1683634963 716122 25721a54a234fceb2fad5307d65e2037 ""
   "logoucc.png" 1683491948 9180 33a2cde0f119018f3d290f5dec03e431 ""
-  "main.aux" 1683502324 217 1b2c2001fad8ef20b44f8a2544600a61 "pdflatex"
-  "main.tex" 1683502324 4404 c4ca5bb0acea45f0465397094379af80 ""
-  "titlepage.aux" 1683502324 424 cb5789c79747cd3c8a42952c2b80665c "pdflatex"
-  "titlepage.tex" 1683498217 820 0fe7354cd9833a3936e04ad308285957 ""
+  "main.aux" 1683635233 217 16be09ad2faf87ab6eefa3f2f6493ba9 "pdflatex"
+  "main.tex" 1683635080 5691 3f8f76f8f68d961121774113c5edf8c9 ""
+  "titlepage.aux" 1683635233 424 cb5789c79747cd3c8a42952c2b80665c "pdflatex"
+  "titlepage.tex" 1683635232 819 3024c8cb4a4e686e9c51baa1dd131260 ""
   (generated)
   "main.aux"
   "main.log"
