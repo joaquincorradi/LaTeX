@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.19)  28 MAY 2023 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.19)  29 MAY 2023 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -99,20 +99,20 @@ LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -157,66 +157,49 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
-LaTeX Info: The control sequence `\normalsize' is already robust on input line 
-56.
-LaTeX Info: Redefining \small on input line 58.
-LaTeX Info: Redefining \footnotesize on input line 69.
-LaTeX Info: Redefining \scriptsize on input line 80.
-LaTeX Info: Redefining \tiny on input line 81.
-LaTeX Info: Redefining \large on input line 82.
-LaTeX Info: Redefining \Large on input line 83.
-LaTeX Info: Redefining \LARGE on input line 84.
-LaTeX Info: Redefining \huge on input line 85.
-LaTeX Info: Redefining \Huge on input line 86.
-)
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 \openout2 = `titlepage.aux'.
 
- (./titlepage.tex
+
+(./titlepage.tex
 <logoucc.png, id=1, 96.36pt x 120.45pt>
 File: logoucc.png Graphic file (type png)
 <use logoucc.png>
 Package pdftex.def Info: logoucc.png  used on input line 24.
-(pdftex.def)             Requested size: 68.99895pt x 86.2479pt.
-
-[1
-
+(pdftex.def)             Requested size: 77.99881pt x 97.49779pt.
+ [1
 
 
 {/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logoucc.pn
 g>])
-Underfull \hbox (badness 10000) in paragraph at lines 47--50
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
 
 [1
 
 
-
-] [2] (./main.aux (./titlepage.aux)
+] [2] [3] (./main.aux (./titlepage.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 2641 strings out of 480852
- 40141 string characters out of 5906872
- 348248 words of memory out of 6000000
- 19959 multiletter control sequences out of 15000+600000
- 405537 words of font info for 34 fonts, out of 8000000 for 9000
+ 2629 strings out of 480852
+ 39912 string characters out of 5906872
+ 348247 words of memory out of 6000000
+ 19950 multiletter control sequences out of 15000+600000
+ 405538 words of font info for 34 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 59i,4n,66p,604b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,4n,66p,656b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on ./main.pdf (3 pages, 60168 bytes).
+Output written on ./main.pdf (4 pages, 62760 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
