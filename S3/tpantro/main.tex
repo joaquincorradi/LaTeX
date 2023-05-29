@@ -1,37 +1,40 @@
-\documentclass[10pt, a4paper]{article}
+\documentclass[12pt, a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[nil, spanish]{babel}
 
+\newenvironment{localsize}[1]
+{%
+  \clearpage
+  \let\orignewcommand\newcommand
+  \let\newcommand\renewcommand
+  \makeatletter
+  \input{bk#1.clo}%
+  \makeatother
+  \let\newcommand\orignewcommand
+}
+{%
+  \clearpage
+}
+
 \begin{document}
-  \include{titlepage}
+  \begin{localsize}{10}
+    \include{titlepage}
+  \end{localsize}
 
   \section*{Consignas del trabajo}
 
     \begin{enumerate}
 
-      \item \begin{enumerate}
+      \item Antes de realizar esta actividad, ¿Conocían el presente Protocolo? Si la respuesta es afirmativa, señalar cómo accedieron a esta información. Si la respuesta es no: señalar al menos dos estrategias de visibilización de dicho protocolo en la Facultad de Ingeniería.
 
-        \item Luego de leer el texto \textit{"Historicidad"}, especificamente lo
-          referido a las tres temporalidades, ejemplificar cada una de las temporalidades
-          con letras de canciones.
+      \item Según sus opiniones: ¿cuáles son las fortalezas del presente protocolo y, ¿Cuáles son sus debilidades? Señalar de modo claro y específico.
 
-        \item Justificar.
+      \item ¿Qué tipos de violencias descritas por el protocolo en su artículo 5 y 6 son las más comunes en sus contextos cotidianos? Justificar.
 
-      \end{enumerate}
+      \item ¿Creen que en su Facultad hay o hubo casos de violencia de género? Describirlos, cuidando el anonimato de los protagonistas. Tener muy en cuenta los artículos 5, 6 y el punto final “Transitorias”.
 
-      \item \begin{enumerate}
-
-        \item ¿Cuál es la crítica de Gevaert al concepto de \textit{"determinismo"}?
-
-        \item El autor describe los factores que justifican la ilusión determinista; 
-          señalar un ejemplo, presente en la vida cotidiana contemporánea, para cada 
-          uno de estos factores y justificar las relaciones.
-
-      \end{enumerate}
-
-      \item Completar un cuadro, teniendo en cuenta lo planteado por 
-        el texto \textit{"Historicidad"} respecto al pasado, presente y futuro.
+      \item ¿Creen que conocer y trabajar en este protocolo institucional tiene que ver con alguna temática que estamos estudiando en Antropología? En caso de respuesta afirmativa o negativa. Justificar.
 
   \end{enumerate}
 
@@ -41,78 +44,17 @@
     
     \begin{enumerate}
 
-      \item \begin{enumerate}
-          \item La temporalidad restaurador se puede relacionar con la canción 
-            \textit{"Stressed Out"} de \textit{Twenty One Pilots}, la temporalidad constructor 
-            se puede relacionar con la canción \textit{"Good Days"} de 
-            \textit{SZA}, y la temporaliad utópico se puede relacionar 
-            con la canción \textit{"The Man"} de \textit{Taylor Swift}.
-        \item En el caso de la primer temporalidad el autor señala que añora los
-          tiempos pasados cuando era niño, resalta que todo era más sencillos y
-          mejor, y lo deja claro con la siguiente frase del estribillo:
-          \textit{wish we could turn back time to the good old days} lo que se 
-          traduce como \textit{ojalá pudiéramos hacer retroceder el tiempo a 
-          los buenos viejos tiempos}.\\
-          Las canción relacionada con la segunda temporalidad se habla de la 
-          importancia de dejar ir el pasado y seguir adelante hacia un futuro 
-          mejor luego de una ruptura amorosa, pero también se remarca el 
-          valor del presente y en encontrar la felicidad en el momento actual.\\
-          Finalmente la última canción que se relaciona con la temporalidad utópica
-          habla sobre que hay que actuar con un propósito y tener metas y 
-          objetivos claros. La cantante habla sobre cómo ella es 
-          vista por algunos como una revolucionaria ya que imagina un mundo 
-          sin desigualdad,
-          pero ella se ve a sí  misma como alguien que simplemente está luchando 
-          por lo que cree que es correcto y lo que piensa es un futuro ideal.
-      \end{enumerate} 
+      \item Antes de llevar a cabo la actividad, ninguno de los miembros del grupo tenía conocimiento del protocolo. Consideramos que se podrían implementar diversas estrategias con el objetivo de difundir el protocolo entre las diferentes partes que conviven en la universidad.\\
+        En primer lugar, proponemos realizar charlas informativas. Esta opción tiene la ventaja de proporcionar información detallada sobre el tema. Los distintos puntos del protocolo podrían ser explicados en profundidad por personas capacitadas en el tema, como los miembros de la Comisión. Además, se crearía un espacio abierto para que los participantes puedan plantear preguntas.\\
+        En segundo lugar, proponemos llevar a cabo una campaña en redes sociales. Consideramos que esta opción es la más efectiva y viable debido a su amplio alcance, ya que llega tanto a los miembros de la universidad como a personas externas interesadas en el tema. Las redes sociales también ofrecen la ventaja de una difusión rápida. Además, se podría incluir contenido audiovisual relacionado con el protocolo, y las redes sociales facilitan el hecho de compartir dicho contenido, haciéndolo rápido y sencillo.\\
 
-      \item \begin{enumerate}
+      \item El protocolo tiene como fortaleza su descripción detallada de los pasos a seguir para denunciar o reportar cualquier forma de violencia. Además, destaca el hecho de que asigna una comisión específica para tratar estos casos.\\
+        Sin embargo, una debilidad del protocolo es que no aclara desde el principio que se aplica a todos los tipos de violencia, no solo a aquella dirigida hacia las mujeres. Esta información se menciona brevemente al final, lo que implica que se espera que el lector lea todo el documento para obtener dicha información. No se proporciona ningún indicio sobre los distintos tipos de violencia que no estén relacionados con cuestiones de género.
+ 
+      \item La violencia que observamos más a diario en nuestra vida cotidiana es la del tipo simbólica. Hay muchos estereotipos de género arraigados en nuestro contexto como el de las carreras para hombres y mujeres, que ejemplificamos en el siguiente punto, y otros que se escuchan mucho como por ejemplo “las mujeres manejan mal”. También vemos la violencia simbólica en el lenguaje sexista, que incluso nosotros usamos. Esta la vemos principalmente en los insultos en donde se hace referencia a un género o el otro como algo negativo.
 
-        \item El autor critica la idea de \textit{"determinismo"} porque cree que 
-          puede limitar a las personas. Él argumenta que pensar que todo en la 
-          vida está predeterminado y que no tenemos control sobre nuestro destino 
-          puede hacernos sentir indefensos. \\
+      \item En el contexto universitario, lamentablemente, hemos presenciado actos de violencia, destacando en particular el trato "especial" que algunos profesores brindan a las mujeres. Esto se justifica con la idea de que la ingeniería es una carrera dominada por hombres y, por lo tanto, se les debe dar un trato diferenciado.. Sin embargo, esta justificación muchas veces roza el acoso, generando evidente incomodidad en nuestras compañeras. En esta situación, de acuerdo con el artículo 5 del protocolo, nos encontramos frente a un caso de violencia simbólica.
 
-          Asimismo, señala que el determinismo puede tener un impacto negativo en 
-          la creatividad y la innovación, al no dejar espacio para la libre elección 
-          y la imaginación. También destaca que puede tener implicaciones éticas 
-          y morales problemáticas, al librarse de responsabilidad personal en 
-          las decisiones y acciones.\\
-
-          Desde la perspectiva del autor, el determinismo es una visión simplista 
-          de la realidad,  y él, en cambio, apoya una visión más realista.
-
-        \item Los factores que determinan la ilusión determinista son los siguientes:\\ 
-          lusión retrospectiva. A menudo pensamos que los eventos pasados eran 
-          inevitables porque ya sucedieron y no se pueden cambiar. Por ejemplo, 
-          la caída del Muro de Berlín en 1989 se debe a tensiones políticas y 
-          económicas que se habían estado gestando en Europa del Este durante 
-          mucho tiempo. Esta idea puede surgir porque no podemos cambiar el 
-          pasado.\\
-
-          Impotencia frente a los acontecimientos. A veces sentimos que no podemos
-          cambiar eventos importantes de la historia, como el cambio 
-          climático. Aunque intentemos hacer algo al respecto, parece que estos 
-          eventos van a suceder de todas maneras, como si estuvieran destinados 
-          a ocurrir.\\ 
-
-          Deseo de ofrecer una base ideológica a un compromiso histórico. Hay personas 
-          que creen en el determinismo histórico para justificar su lucha o 
-          compromiso histórico. El marxismo es un ejemplo de esta idea, ya que 
-          sostiene que la historia se desarrolla a través de las luchas de clases 
-          y hacia la victoria del proletariado. Para el comunismo, esta idea es 
-          importante porque la libertad individual podría poner en peligro la 
-          teoría marxista y su visión de la sociedad perfecta.\\
-          
-          Creencia en el mandamiento divino. Algunas personas creen que Dios 
-          ha planeado todo lo que sucede en la historia y que los eventos ocurren 
-          de una manera específica. Esto puede hacer que piensen que los humanos 
-          no tienen mucho control sobre lo que sucede y que los desastres naturales 
-          y los conflictos armados son parte del plan de Dios y no pueden ser cambiados. 
-      \end{enumerate}
-        
-    \item \includegraphics[width=1\textwidth]{cuadro.jpg}
-        
     \end{enumerate}
     
 \end{document}
