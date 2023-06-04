@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Campos magnéticos}{2}{chapter*.1}%
+\contentsline {section}{Fuerza magnética}{2}{chapter*.2}%
+\contentsline {section}{Interacción de $B$ con una corriente $I$}{2}{section*.3}%
+\contentsline {chapter}{Fuentes de campos magnéticos}{2}{section*.4}%
+\contentsline {chapter}{Ley de Faraday}{3}{chapter*.5}%
