@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.6.3)  7 JUN 2023 20:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/CVE-2023-32700 patched) (preloaded format=pdflatex 2023.6.3)  11 JUN 2023 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -393,41 +393,50 @@ l.14   \newpage
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 35.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 35.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 35.
+(hyperref)                removing `math shift' on input line 31.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 35.
+(hyperref)                removing `math shift' on input line 31.
 
 [2
 
 ] [3
 
-] [4] [5
+] [4]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 137.
+
+[5
 
 ] (./template.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 5EC2AF93D45819E44B314AACAD63F561;1981.
+(rerunfilecheck)             Checksum: 0D4D43E13ADC58AA9367FA319F58F17F;2816.
  ) 
 Here is how much of TeX's memory you used:
- 10602 strings out of 478210
- 166069 string characters out of 5845303
- 1854793 words of memory out of 6000000
- 30410 multiletter control sequences out of 15000+600000
+ 10608 strings out of 478210
+ 166141 string characters out of 5845303
+ 1855793 words of memory out of 6000000
+ 30413 multiletter control sequences out of 15000+600000
  522596 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,9n,77p,303b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,9n,77p,433b,468s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
@@ -436,10 +445,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb>
-Output written on ./template.pdf (6 pages, 95837 bytes).
+Output written on ./template.pdf (6 pages, 100685 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 138 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

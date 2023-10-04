@@ -2,14 +2,17 @@
 \contentsline {chapter}{Campos magnéticos}{2}{chapter*.1}%
 \contentsline {section}{Fuerza magnética}{2}{chapter*.2}%
 \contentsline {section}{Interacción de $B$ con una corriente $I$}{2}{section*.3}%
-\contentsline {chapter}{Fuentes de campos magnéticos}{2}{section*.4}%
-\contentsline {section}{Conductor corto}{3}{chapter*.5}%
-\contentsline {section}{Conductor largo}{3}{section*.6}%
-\contentsline {section}{Espira}{3}{section*.7}%
-\contentsline {section}{Bobina toroidal}{3}{section*.8}%
-\contentsline {section}{Solenoide}{3}{section*.9}%
-\contentsline {section}{Fuerza entre dos conductores paralelos}{4}{section*.10}%
-\contentsline {section}{Flujo magnético}{4}{section*.11}%
-\contentsline {chapter}{Ley de Faraday}{4}{section*.12}%
-\contentsline {section}{Definición}{5}{chapter*.13}%
-\contentsline {section}{}{5}{section*.14}%
+\contentsline {section}{Radio de la trayectoria circular de una particula en un campo}{2}{section*.4}%
+\contentsline {chapter}{Fuentes de campos magnéticos}{2}{section*.5}%
+\contentsline {section}{Conductor corto}{3}{chapter*.6}%
+\contentsline {section}{Conductor largo}{3}{section*.7}%
+\contentsline {section}{Espira}{3}{section*.8}%
+\contentsline {section}{Bobina toroidal}{3}{section*.9}%
+\contentsline {section}{Solenoide}{3}{section*.10}%
+\contentsline {section}{Fuerza entre dos conductores paralelos}{4}{section*.11}%
+\contentsline {section}{Flujo magnético}{4}{section*.12}%
+\contentsline {chapter}{Ley de Faraday}{4}{section*.13}%
+\contentsline {section}{Definición}{5}{chapter*.14}%
+\contentsline {section}{Ley de Faraday para $N$ espiras}{5}{section*.15}%
+\contentsline {section}{F.E.M. de movimiento}{5}{section*.16}%
+\contentsline {section}{Ley de Ohm}{5}{section*.17}%

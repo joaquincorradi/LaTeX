@@ -21,24 +21,29 @@
       
       \begin{align*}
         \vec{F}_B&=q\vec{v}\times\vec{B}\\
-        |F_B|&=|q||v||B|\sin{\theta}
+        F_B&=qvB\sin{\theta}
       \end{align*}
 
       Siendo $\vec{B}$ el vector de campo magnético, $q$ una partícula cargada
       y $v$ la velocidad de esta.\\
-      \indent$B$ se mide en Tesla
-
-      \begin{equation*}
-        1T=1\frac{N}{C\frac{m}{s}}=1\frac{N}{Am}
-      \end{equation*}
+      \indent$B$ se mide en Tesla.
 
     \addcontentsline{toc}{section}{Interacción de $B$ con una corriente $I$}
     \section*{Interacción de $B$ con una corriente $I$}
 
     \begin{align*}
-      d\vec{F}_B=Id\vec{S}\times\vec{B}\\
-      F_B=ISB\cos{\theta}
+      d\vec{F}_B=Id\vec{s}\times\vec{B}\\
+      F_B=IsB\sin{\theta}
     \end{align*}
+
+    \addcontentsline{toc}{section}{Radio de la trayectoria circular de una particula en un campo}
+    \section*{Radio de la trayectoria circular de una particula en un campo}
+
+      \begin{equation*}
+        r=\frac{mv}{qB}
+      \end{equation*}
+
+      \indent Donde $m$ es la masa de la partícula y $q$ su carga.
 
   \addcontentsline{toc}{chapter}{Fuentes de campos magnéticos}
   \chapter*{Fuente de campos magnéticos}
@@ -50,12 +55,16 @@
       B_P=\frac{\mu_0I}{4\pi a}(\cos{\theta_1}-\cos{\theta_2})
     \end{equation*}
 
+    \indent Siendo $a$ la distancia del conductor al punto.
+
     \addcontentsline{toc}{section}{Conductor largo}
     \section*{Conductor largo}
 
       \begin{equation*}
         B_P=\frac{\mu_0I}{2\pi a}
       \end{equation*}
+
+      \indent Siendo $a$ la distancia del conductor al campo.
 
     \addcontentsline{toc}{section}{Espira}
     \section*{Espira}
@@ -71,6 +80,8 @@
         B=\frac{\mu_0NI}{2\pi r}
       \end{equation*}
 
+      \indent Siendo $r$ el radio varible.
+
     \addcontentsline{toc}{section}{Solenoide}
     \section*{Solenoide}
 
@@ -78,19 +89,38 @@
         B_P=\frac{\mu_0NI}{2l}(\sen{\theta_2}-\sen{\theta_1})
       \end{equation*}
 
+      \indent En caso de ser un solenoide largo la formula es la siguiente
+
+      \begin{align*}
+        B &= \frac{\mu_0NI}{l}\\
+          &= \mu_0nI
+      \end{align*}
+
+      \indent Si el punto $P$ se encuentra en el extremo superior de un solenoide
+      largo entonces $\theta_2 = 0$ y $\theta_1 = -90$.
+
+      \begin{equation*}
+        B_{extremo}=\frac{\mu_0nI}{2}
+      \end{equation*}
+
+
     \addcontentsline{toc}{section}{Fuerza entre dos conductores paralelos}
     \section*{Fuerza entre dos conductores paralelos}
 
       \begin{equation*}
-        \frac{F}{L}=\frac{\mu_0 I_1I_2}{2\pi a}
+        \frac{F}{l}=\frac{\mu_0 I_1I_2}{2\pi a}
       \end{equation*}
+
+      \indent Siendo $a$ la distancia entre los dos conductores y $l$ la longitud
+      de los conductores.
 
     \addcontentsline{toc}{section}{Flujo magnético}
     \section*{Flujo magnético}
 
-      \begin{equation*}
-        \Phi_m=\int\vec{B}\cdot d\vec{A}
-      \end{equation*}
+      \begin{align*}
+        \Phi_m&=\int\vec{B}\cdot d\vec{A}\\
+        &=\int BA\cos{\theta}
+      \end{align*}
 
   \addcontentsline{toc}{chapter}{Ley de Faraday}
   \chapter*{Ley de Faraday}
@@ -99,10 +129,32 @@
     \section*{Definición}
 
       \begin{equation*}
-        \mathcal{E}=-\frac{d\Phi_B}{dt}
+        \mathcal{E}=-\frac{d}{dt}\Phi_m
       \end{equation*}
 
-    \addcontentsline{toc}{section}{}
-    \section*{}
+      \indent Siedo $\mathcal{E}$ la F.E.M inducida en una espira.
+
+    \addcontentsline{toc}{section}{Ley de Faraday para $N$ espiras}
+    \section*{Ley de Faraday para $N$ espiras}
+
+      \begin{equation*}
+        \mathcal{E}=-N\frac{d}{dt}\Phi_m
+      \end{equation*}
+
+    \addcontentsline{toc}{section}{F.E.M. de movimiento}
+    \section*{F.E.M. de movimiento}
+
+    \begin{equation*}
+      \mathcal{E}=-Blv
+    \end{equation*}
+
+    \addcontentsline{toc}{section}{Ley de Ohm}
+    \section*{Ley de Ohm}
+    
+      \begin{equation*}
+        I=\frac{\mathcal{E}}{R}
+      \end{equation*}
+      
+      \indent Siendo $R$ la resistencia.
 
 \end{document}
